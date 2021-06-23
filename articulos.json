@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "imagen": "image/ch1.jpg",
+        "titulo": "Tremendo Choco",
+        "precio": 500,
+        "altText": "Choco 1",
+        "descripcion": "Centro de magia y cobertura de locura.",
+        "buttonText": "Lo Quiero!"
+    }, 
+    {
+        "id": 2,
+        "imagen": "image/ch2.jpg",
+        "titulo": "Bomba de Amor",
+        "precio": 525,
+        "altText": "Choco 2",
+        "descripcion": "Una explosión de sabores, sabelo.",
+        "buttonText": "Lo Necesito!"
+    }, 
+    {
+        "id": 3,
+        "imagen": "image/ch3.png",
+        "titulo": "Una Fiesta",
+        "precio": 550,
+        "altText": "Choco 3",
+        "descripcion": "No podés creer que algo así exista!",
+        "buttonText": "Dame Mil!"
+    }, 
+    {
+        "id": 4,
+        "imagen": "image/ch4.jpg",
+        "titulo": "Festival de Sabores",
+        "precio": 500,
+        "altText": "Choco 4",
+        "descripcion": "Te vas a querer casar con este choco.",
+        "buttonText": "Ufff.. Compro!"
+    }, 
+    {
+        "id": 5,
+        "imagen": "image/ch5.jpg",
+        "titulo": "Esto es Fatal",
+        "precio": 525,
+        "altText": "Choco 5",
+        "descripcion": "Todo lo que está bien (y mal)...",
+        "buttonText": "Tome mi Dinero!"
+    }, 
+    {
+        "id": 6,
+        "imagen": "image/ch6.jpg",
+        "titulo": "El Choco de tu Vida",
+        "precio": 550,
+        "altText": "Choco 6",
+        "descripcion": "No existe otro como este, he dicho!",
+        "buttonText": "Lo Deseo!"
+    }
+]
