@@ -1,7 +1,7 @@
 // INVENTARIO DE PRODUCTOS - INICIO
 
 const products = [
-    { id: 1, title:"Tremendo Choco",           price: 500, image: "images/ch1.jpg", altText: "Choco 1", description: "Centro de magia y cobertura de locura.", buttonText: "Lo Quiero!"},
+    { id: 1, title:"Tremendo Choco",           price: 500, image: "images/ch1.jpg", altText: "Choco 1", description: "Centro y cobertura de pura felicidad.", buttonText: "Lo Quiero!"},
     { id: 2, title:"Bomba de Amor",            price: 550, image: "images/ch2.jpg", altText: "Choco 2", description: "Una explosión de sabores, sabelo.",      buttonText: "Lo Necesito!"},
     { id: 3, title:"Una Fiesta",               price: 525, image: "images/ch3.jpg", altText: "Choco 3", description: "No podés creer que algo así exista!",    buttonText: "Dame Mil!"},
     { id: 4, title:"Festival de Sabores",      price: 500, image: "images/ch4.jpg", altText: "Choco 4", description: "Te vas a querer casar con este choco.",  buttonText: "Ufff.. Compro!"},

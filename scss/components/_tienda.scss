@@ -66,12 +66,15 @@
   }
 
   .layer-top {
-    height: 125%;
-    top: -25px;
+    height: 93%;
+    top: 15px;
   }
 
   .layer-text {
-    top: 65%;
+    top: 50%;
+    -webkit-transform: translate(5%, -65%);
+    -ms-transform: translate(5%, -65%);
+    transform: translate(5%, -65%);
   }
 
   .clases-text-responsive {
