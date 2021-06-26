@@ -6,30 +6,34 @@
   font-family: Moontime;
   src: url(../fonts/MoonTime-Regular.otf);
 }
+@font-face {
+  font-family: Sansation;
+  src: url(../../fonts/Sansation-Bold.ttf);
+}
 .header {
   position: fixed;
   width: 100%;
   top: 0;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   opacity: 0.95;
   z-index: 5;
 }
 
 .logo {
-  max-width: 25%;
+  max-width: 40%;
   margin-left: 20px;
 }
 
 .navbar-nav a {
   margin-right: 50px;
-  color: #464E51;
+  color: #464e51;
   font-weight: bold;
 }
 .navbar-nav a:last-of-type {
   margin-right: 0;
 }
 .navbar-nav a:hover {
-  color: #1C2020;
+  color: #1c2020;
   font-weight: bolder;
 }
 
@@ -131,21 +135,13 @@
     max-width: 17%;
   }
 }
-.carrito {
-  position: fixed;
-  z-index: 3;
-  right: 20px;
-  top: 115px;
-  max-width: 80px;
-}
-
 .layer-text {
-  color: #1C2020;
+  color: #1c2020;
   position: absolute;
   top: 60%;
-  -webkit-transform: translate(17%, -65%);
-  -ms-transform: translate(17%, -65%);
-  transform: translate(17%, -65%);
+  -webkit-transform: translate(14%, -65%);
+  -ms-transform: translate(14%, -65%);
+  transform: translate(14%, -65%);
   text-align: center;
   font-size: 0.8rem;
   padding: 10px;
@@ -168,12 +164,12 @@
 
 .layer-top {
   position: absolute;
-  top: 0;
+  top: 15px;
   bottom: 0;
-  left: 0;
+  left: 27px;
   right: 0;
-  height: 100%;
-  width: 100%;
+  height: 95%;
+  width: 86%;
   opacity: 0;
   transition: 0.5s ease;
   background-color: #ececec;
@@ -184,11 +180,11 @@
 }
 
 .addToCartButton {
-  font-family: Handletters;
-  font-size: 30px;
+  font-family: Sansation;
+  font-size: 20px;
   font-weight: bold;
   padding: 0px 35px;
-  border: 1px solid #1C2020;
+  border: 1px solid #1c2020;
   border-radius: 3px;
   margin: auto;
 }
@@ -233,8 +229,8 @@ p {
 }
 
 h1 {
-  font-family: Handletters;
-  font-size: 5rem;
+  font-family: Sansation;
+  font-size: 3.5rem;
 }
 
 h2 {
@@ -252,7 +248,7 @@ h2 {
 }
 
 .white {
-  color: #FFFFFF;
+  color: #ffffff;
   margin-top: 1em;
 }
 
@@ -266,7 +262,7 @@ h2 {
 
 /* Secciones */
 .sectionTitle {
-  color: #1C2020;
+  color: #e94a72;
   text-align: center;
   display: flex;
   position: relative;
@@ -280,11 +276,10 @@ h2 {
 }
 
 .space-pink {
-  background-color: #FAEEE9;
+  background-color: #faeee9;
 }
 
-.sectionPink {
-  background-color: #FAEEE9;
+.section {
   padding: 60px 2rem;
 }
 
