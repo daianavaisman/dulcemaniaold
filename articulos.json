@@ -1,56 +1,56 @@
 [
     {
         "id": 1,
-        "imagen": "image/ch1.jpg",
-        "titulo": "Tremendo Choco",
-        "precio": 500,
+        "image": "image/ch1.jpg",
+        "title": "Tremendo Choco",
+        "price": 500,
         "altText": "Choco 1",
-        "descripcion": "Centro de magia y cobertura de locura.",
+        "description": "Centro de magia y cobertura de locura.",
         "buttonText": "Lo Quiero!"
     }, 
     {
         "id": 2,
-        "imagen": "image/ch2.jpg",
-        "titulo": "Bomba de Amor",
-        "precio": 525,
+        "image": "image/ch2.jpg",
+        "title": "Bomba de Amor",
+        "price": 525,
         "altText": "Choco 2",
-        "descripcion": "Una explosión de sabores, sabelo.",
+        "description": "Una explosión de sabores, sabelo.",
         "buttonText": "Lo Necesito!"
     }, 
     {
         "id": 3,
-        "imagen": "image/ch3.png",
-        "titulo": "Una Fiesta",
-        "precio": 550,
+        "image": "image/ch3.png",
+        "title": "Una Fiesta",
+        "price": 550,
         "altText": "Choco 3",
-        "descripcion": "No podés creer que algo así exista!",
+        "description": "No podés creer que algo así exista!",
         "buttonText": "Dame Mil!"
     }, 
     {
         "id": 4,
-        "imagen": "image/ch4.jpg",
-        "titulo": "Festival de Sabores",
-        "precio": 500,
+        "image": "image/ch4.jpg",
+        "title": "Festival de Sabores",
+        "price": 500,
         "altText": "Choco 4",
-        "descripcion": "Te vas a querer casar con este choco.",
+        "description": "Te vas a querer casar con este choco.",
         "buttonText": "Ufff.. Compro!"
     }, 
     {
         "id": 5,
-        "imagen": "image/ch5.jpg",
-        "titulo": "Esto es Fatal",
-        "precio": 525,
+        "image": "image/ch5.jpg",
+        "title": "Esto es Fatal",
+        "price": 525,
         "altText": "Choco 5",
-        "descripcion": "Todo lo que está bien (y mal)...",
+        "description": "Todo lo que está bien (y mal)...",
         "buttonText": "Tome mi Dinero!"
     }, 
     {
         "id": 6,
-        "imagen": "image/ch6.jpg",
-        "titulo": "El Choco de tu Vida",
-        "precio": 550,
+        "image": "image/ch6.jpg",
+        "title": "El Choco de tu Vida",
+        "price": 550,
         "altText": "Choco 6",
-        "descripcion": "No existe otro como este, he dicho!",
+        "description": "No existe otro como este, he dicho!",
         "buttonText": "Lo Deseo!"
     }
 ]
