@@ -39,7 +39,7 @@ const cart = []
 function addToCart(e) {
     //.find() es un metodo de los arrays que te devuelve el elemento que coincida con la busqueda. 
     //en este caso buscamos que me traiga el product.id que coincida con el value del boton
-    const productToCart = products.find(product => product.id === parseInt(e.target.value));//o e.value prueba con ambas a ver cual funciona
+    const productToCart = products.find(product => product.id === parseInt(e.target.value));
     console.log(productToCart);
 
     if(!productToCart) {
